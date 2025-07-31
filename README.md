@@ -57,7 +57,7 @@ Servicios adicionales:
 
 
 ## Sobre mi
-Hola 👋, soy Benjamín ingeniero en sistemas computacionales y estudiante de ingeniería telemática, actualmente me encuentro como aspirante en el Grupo 8 del programa ONE.
+Hola 👋, soy Benjamín ingeniero en sistemas computacionales y estudiante de ingeniería telemática, actualmente me encuentro como alumno en el Grupo 8 del programa ONE.
 
 
 ## 🔗 Links
