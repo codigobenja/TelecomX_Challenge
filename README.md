@@ -3,7 +3,7 @@
 
 ## Índice
 - [Descripción del Proyecto](#descripción-del-proyecto)
-- [Conclusión general](#conclusion-general)
+- [Conclusión general](#conclusión-general)
 - [Recomendación](#recomendación)
 - [Puntos destacados](#puntos-destacados)
 - [Links](#links)
